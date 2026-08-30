@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Jahziyah 👋
 
-<!--
-**Jahziyah/Jahziyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who I Am
+Software Engineering Technology student passionate about building clean, functional software. I love solving problems and turning ideas into working code.
 
-Here are some ideas to get you started:
+## What I'm Working On
+- 🌱 Learning: Python, JavaScript, TypeScript & full-stack frameworks like React and Node.js
+- 🔭 Currently: working through coursework
+- 🎯 Goal: graduating and starting my career as a software engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tools & Tech
+ 
+**Languages**
+`Python` `JavaScript` `TypeScript` `C#` `Java` `Kotlin`
+ 
+**Frontend & Frameworks**
+`React` `Next.js` `Node.js` `.NET` `Android`
+ 
+**AI & ML**
+`GitHub Copilot` `LangChain` `LangGraph` `Gemini API` `RAG Pipelines`
+ 
+**Cloud & DevOps**
+`AWS` `Azure` `Docker` `Kubernetes` `CI/CD`
+ 
+**Databases**
+`SQL Server` `MongoDB` `Oracle`
+ 
+**Tools**
+`Git` `VS Code` `Linux`
+
+## Let's Connect
+- 📧 Email: jahziyah.davis@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/jahziyah-davis
